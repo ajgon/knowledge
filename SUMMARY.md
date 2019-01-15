@@ -9,6 +9,8 @@
   - [Web](pentesting/web/README.md)
       - [Reconnaissance](pentesting/reconnaissance/README.md)
         - [Hidden directories and files](pentesting/web/reconnaissance/hidden-directories-and-files.md)
+        - [Rekonesans infrastruktury IT](pentesting/web/reconnaissance/rekonesans-infrastruktury-it/README.md)
+          - [Google hacking](pentesting/web/reconnaissance/rekonesans-infrastruktury-it/01-google-hacking.md)
   - [Wi-Fi](pentesting/wifi/README.md)
     - [Bezpieczeństwo Sieci Wi-Fi](pentesting/wifi/bezpieczenstwo-sieci-wifi/README.md)
       - [Wstęp](pentesting/wifi/bezpieczenstwo-sieci-wifi/01-wstep.md)
