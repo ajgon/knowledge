@@ -1,6 +1,9 @@
 # Summary
 
 - [Pentesting](pentesting/README.md)
+  - [Web](pentesting/web/README.md)
+      - [Reconnaissance](pentesting/reconnaissance/README.md)
+        - [Hidden directories and files](pentesting/web/reconnaissance/hidden-directories-and-files.md)
   - [Wi-Fi](pentesting/wifi/README.md)
     - [🇵 🇱Bezpieczeństwo Sieci Wi-Fi](pentesting/wifi/bezpieczenstwo-sieci-wifi/README.md)
       - [Wstęp](pentesting/wifi/bezpieczenstwo-sieci-wifi/01-wstep.md)
