@@ -2,7 +2,7 @@
 
 - [Pentesting](pentesting/README.md)
   - [Wi-Fi](pentesting/wifi/README.md)
-    - [Bezpieczeństwo Sieci Wi-Fi](pentesting/wifi/bezpieczenstwo-sieci-wifi/README.md)
+    - [🇵 🇱Bezpieczeństwo Sieci Wi-Fi](pentesting/wifi/bezpieczenstwo-sieci-wifi/README.md)
       - [Wstęp](pentesting/wifi/bezpieczenstwo-sieci-wifi/01-wstep.md)
       - [Wprowadzenie do nasłuchiwania ruchu](pentesting/wifi/bezpieczenstwo-sieci-wifi/02-wprowadzenie-do-nasluchiwania-ruchu.md)
       - [WEP](pentesting/wifi/bezpieczenstwo-sieci-wifi/03-wep.md)
