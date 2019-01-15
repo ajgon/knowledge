@@ -4,6 +4,7 @@
   - [Passwords cracking](pentesting/passwords-cracking.md)
     - [Kompendium bezpieczeństwa haseł](pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/README.md)
       - [Część 1](pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/01-part1.md)
+      - [Część 2](pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/02-part2.md)
   - [Web](pentesting/web/README.md)
       - [Reconnaissance](pentesting/reconnaissance/README.md)
         - [Hidden directories and files](pentesting/web/reconnaissance/hidden-directories-and-files.md)
