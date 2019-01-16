@@ -6,6 +6,8 @@
   - [Ruby on Rails](programming/rails/README.md)
     - [Performance](programming/rails/performance/README.md)
       - [Actionable Tips to Improve Web Performance with Rails](programming/rails/performance/actionable-tips-to-improve-web-performance-with-rails.md)
+    - [Security](programming/rails/security/README.md)
+      - [Securing Sensitive Data in Rails](programming/rails/security/sensitive-data-rails.md)
 - [Pentesting](pentesting/README.md)
   - [Passwords cracking](pentesting/passwords-cracking.md)
     - [Kompendium bezpieczeństwa haseł](pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/README.md)

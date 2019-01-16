@@ -85,8 +85,7 @@ This is just kind advice and a good practice to follow when Web performance is a
 
 Reference: [RoR guides: ActiveStorage](http://edgeguides.rubyonrails.org/active_storage_overview.html)
 
-Other Tips and tricks to Improve Web Performance
-------------------------------------------------
+## Other Tips and tricks to Improve Web Performance
 
 ### Use HTTP/2
 
