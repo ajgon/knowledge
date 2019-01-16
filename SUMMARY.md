@@ -1,7 +1,8 @@
 # Summary
 
 - [Apple](apple/README.md)
-  - [Battery Life Hacks](apple/battery-life-hacks.md)
+  - [iOS](apple/ios/README.md)
+    - [Battery Life Hacks](apple/ios/battery-life-hacks.md)
 - [Games](games/README.md)
   - [Dead Space 2](games/dead-space-2.md)
 - [Machine Learning](machine-learning/README.md)
