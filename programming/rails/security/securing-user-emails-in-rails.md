@@ -157,7 +157,6 @@ And create `config/initializers/logstop.rb` with:
 Logstop.guard(Rails.logger)
 ```
 
-Summary
--------
+## Summary
 
 We now have a way to encrypt data and query for exact matches. You can apply this same approach to other fields as well. For more security, consider a [key management service](https://github.com/ankane/kms_encrypted) to manage your keys.
