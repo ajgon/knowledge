@@ -3,6 +3,7 @@
 ## Resources
 
 * [Security Checklist](https://securitycheckli.st)
+* [Yubikey Handbook](https://ruimarinho.gitbooks.io/yubikey-handbook/content/)
 
 ## Browser extensions
 
