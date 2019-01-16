@@ -1,5 +1,7 @@
 # Dead Space 2
 
+> Original article: <https://www.xboxachievements.com/forum/showthread.php?t=375033>
+
 ## How to duplicate power nodes/credits in chapter 1. No saving or DLC necessary.
 
 I recently decided I want to attempt a Hardcore run through Dead Space 2. I knew there were certain duplication exploits, but the only ones I knew of either required you to repeatedly save and quit (making them useless for Hardcore mode), or so time-consuming, that they really weren't worth the effort (the DLC Detonator mine trick).
