@@ -5,7 +5,7 @@
     - [iOS](_articles/apple/ios/README.md)
       - [Battery Life Hacks](_articles/apple/ios/battery-life-hacks.md)
   - [Pentesting](_articles/pentesting/README.md)
-    - [Passwords cracking](_articles/pentesting/passwords-cracking.md)
+    - [Passwords cracking](_articles/pentesting/README.md)
       - [Kompendium bezpieczeństwa haseł](_articles/pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/README.md)
         - [Część 1](_articles/pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/01-part1.md)
         - [Część 2](_articles/pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/02-part2.md)
