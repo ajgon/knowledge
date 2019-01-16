@@ -43,3 +43,5 @@ Here are a few important notes if you do plan on doing this (watch the video fir
 As an example, a fully upgraded DLC plasma cutter requires 18 power nodes, and sells for 90,000 credits. So instead of having to duplicate the 1,000 credit clip 90 times, you only have to duplicate a power node 18 times. You can keep rebuying, upgrading, and selling the DLC weapons so long as you have enough power nodes, so make sure you have enough power nodes ready when you go through the crawlspace.
 
 Just don't forget to also bring enough power nodes you'll need for upgrading your RIG/stasis/weapons you plan on keeping.
+
+--- *monkeymischief*
