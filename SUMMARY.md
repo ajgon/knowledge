@@ -13,7 +13,7 @@
       - [5 security issues in Ruby on Rails apps from real life](programming/rails/security/5-security-issues-in-ruby-on-rails.md)
       - [Securing Sensitive Data in Rails](programming/rails/security/sensitive-data-rails.md)
       - [Securing User Emails in Rails](programming/rails/security/securing-user-emails-in-rails.md)
-      - [Using Pundit for authorization in Rails][programming/rails/security/pundit.md)]
+      - [Using Pundit for authorization in Rails](programming/rails/security/pundit.md)
 - [Pentesting](pentesting/README.md)
   - [AWS](pentesting/aws/README.md)
     - [My arsenal of AWS security tools](pentesting/aws/my-arsenal-of-aws-security-tools.md)
