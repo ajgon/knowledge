@@ -2,6 +2,7 @@
 
 - [Games](games/README.md)
   - [Dead Space 2](games/dead-space-2.md)
+- [Privacy](privacy/README.md)
 - [Programming](programming/README.md)
   - [Ruby on Rails](programming/rails/README.md)
     - [Performance](programming/rails/performance/README.md)
@@ -11,6 +12,8 @@
       - [Securing Sensitive Data in Rails](programming/rails/security/sensitive-data-rails.md)
       - [Securing User Emails in Rails](programming/rails/security/securing-user-emails-in-rails.md)
 - [Pentesting](pentesting/README.md)
+  - [AWS](pentesting/aws/README.md)
+    - [My arsenal of AWS security tools](pentesting/aws/my-arsenal-of-aws-security-tools.md)
   - [Passwords cracking](pentesting/passwords-cracking.md)
     - [Kompendium bezpieczeństwa haseł](pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/README.md)
       - [Część 1](pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/01-part1.md)
