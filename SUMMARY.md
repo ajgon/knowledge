@@ -7,6 +7,7 @@
     - [Performance](programming/rails/performance/README.md)
       - [Actionable Tips to Improve Web Performance with Rails](programming/rails/performance/actionable-tips-to-improve-web-performance-with-rails.md)
     - [Security](programming/rails/security/README.md)
+      - [5 security issues in Ruby on Rails apps from real life](programming/rails/security/5-security-issues-in-ruby-on-rails.md)
       - [Securing Sensitive Data in Rails](programming/rails/security/sensitive-data-rails.md)
       - [Securing User Emails in Rails](programming/rails/security/securing-user-emails-in-rails.md)
 - [Pentesting](pentesting/README.md)
