@@ -4,6 +4,8 @@
   - [Dead Space 2](games/dead-space-2.md)
 - [Privacy](privacy/README.md)
 - [Programming](programming/README.md)
+  - [Ruby](programming/ruby/README.md)
+    - [Designing Services with dry-rb](programming/ruby/dry-rb.md)
   - [Ruby on Rails](programming/rails/README.md)
     - [Performance](programming/rails/performance/README.md)
       - [Actionable Tips to Improve Web Performance with Rails](programming/rails/performance/actionable-tips-to-improve-web-performance-with-rails.md)
