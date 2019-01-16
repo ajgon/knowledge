@@ -26,7 +26,7 @@ You can disconnect all devices right in Control Center, which you can access any
 
 ![](../../../.gitbook/assets/65e2163f-8c98-40db-a3db-5237b9748fcc/9726f20f.png)
 
-### Optional: Turn LTE Off
+#### Optional: Turn LTE Off
 
 In Germany, service providers are stingy. With 1 or 2 GB of data per month, this isn't just helpful, it's necessary. But even if you have more bandwidth, you probably still have Wi-Fi in most places. If you want to turn this off go to 'Cellular' → 'Cellular Data Options' → 'Enable LTE' and select 'Off.'
 
@@ -48,7 +48,7 @@ This is a bit hidden. You can find it under 'General' → 'Accessibility' → 'D
 
 ![](../../../.gitbook/assets/65e2163f-8c98-40db-a3db-5237b9748fcc/c204b595.png)
 
-### Optional: Activate Grayscale
+#### Optional: Activate Grayscale
 
 While we're here, if you tap on 'Color Filters,' enable them and choose 'Grayscale,' your screen will be black and white all the time. It's easier on the eyes, helps your natural sleep cycle and less power-consuming for your phone. It might feel unusual at first, but I've come to love it. More details [here](https://betterhumans.coach.me/a-phone-setup-that-will-make-you-more-mindful-1c5d8be7e661).
 
@@ -80,11 +80,11 @@ This sits two slots below 3D Touch. I have never been in a situation where this 
 
 ![](../../../.gitbook/assets/65e2163f-8c98-40db-a3db-5237b9748fcc/f56cb66f.png)
 
-### Optional: Turn ALL Vibration Off
+#### Optional: Turn ALL Vibration Off
 
 Below 'Shake to Undo,' there's an option to eliminate ALL vibration from your phone, even for calls and emergency alerts. Nice if you can make it work, but even for me a bit impractical.
 
-### Alternatively: Turn 'Vibrate on Silent' Off
+#### Alternatively: Turn 'Vibrate on Silent' Off
 
 If you go all the way back to the main setting screen, then tap 'Sounds,' there's an option to turn off 'Vibrate on Silent.' This is neat, as it eliminates vibration only when you flick the Ring/Silent switch on the side of your phone. One of [my top 4 productivity hacks](https://betterhumans.coach.me/4-quick-tweaks-that-will-make-you-more-productive-226be113a510).
 
@@ -114,7 +114,7 @@ Unless you're relying on the kind lady inside your phone to get stuff done, let 
 
 ![](../../../.gitbook/assets/65e2163f-8c98-40db-a3db-5237b9748fcc/defaf9b5.png)
 
-### Optional: Turn 'Low Power Mode' Off
+#### Optional: Turn 'Low Power Mode' Off
 
 Wait, isn't Low Power Mode supposed to preserve battery? Yes, but there's one problem with it.
 
@@ -130,7 +130,7 @@ Most apps will default into tracking your location via GPS wherever you go, but 
 
 ![](../../../.gitbook/assets/65e2163f-8c98-40db-a3db-5237b9748fcc/62232a1d.png)
 
-### Optional: Disable Sending Analytics To Apple
+#### Optional: Disable Sending Analytics To Apple
 
 This depends on how much you want to support Apple, but it automatically creates various analytics data files, *every single day*. Transmitting those sure ain't free, at least for your battery. Scroll to the bottom of 'Privacy' and hit 'Analytics.' You can see the reports under 'Analytics Data,' but if you want to stop submitting them, just toggle off both options.
 
@@ -148,7 +148,7 @@ This is a big one. Go to 'Accounts & Passwords' → 'Fetch New Data,' then disab
 
 ![](../../../.gitbook/assets/65e2163f-8c98-40db-a3db-5237b9748fcc/dab39dd6.png)
 
-### Optional: Enable 'Low Quality Image Mode' for Messages
+#### Optional: Enable 'Low Quality Image Mode' for Messages
 
 At the bottom of your 'Messages' settings, there's the option to enable 'Low Quality Image Mode.' With this, you'll send downsized images, like WhatsApp does by default. Takes less time, saves some battery.
 
