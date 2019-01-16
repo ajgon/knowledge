@@ -47,5 +47,5 @@
   - [AWS](pentesting/aws/README.md)
 - [Privacy](privacy/README.md)
 - [Programming](programming/README.md)
-  - [GraphQL](pgrogramming/README.md)
+  - [GraphQL](programming/graphql/README.md)
 - [Self-hosting](self-hosting/README.md)
