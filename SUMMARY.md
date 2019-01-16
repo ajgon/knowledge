@@ -12,7 +12,7 @@
         - [Część 3](_articles/pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/03-part3.md)
     - [Web](_articles/pentesting/web/README.md)
       - [Web Application Penetration Testing Cheat Sheet](_articles/pentesting/web/cheat-sheet.md)
-      - [Reconnaissance](_articles/pentesting/reconnaissance/README.md)
+      - [Reconnaissance](_articles/pentesting/web/reconnaissance/README.md)
         - [Hidden directories and files](_articles/pentesting/web/reconnaissance/hidden-directories-and-files.md)
         - [Rekonesans infrastruktury IT](_articles/pentesting/web/reconnaissance/rekonesans-infrastruktury-it/README.md)
           - [Google hacking](_articles/pentesting/web/reconnaissance/rekonesans-infrastruktury-it/01-google-hacking.md)
