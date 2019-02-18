@@ -45,6 +45,7 @@
 - [Machine Learning](machine-learning/README.md)
 - [Pentesting](pentesting/README.md)
   - [AWS](pentesting/aws/README.md)
+  - [Dualboot Kali Linux on OSX using encrypted volume](pentesting/dualboot-kali-linux-on-osx-using-encrypted-volume.md)
 - [Privacy](privacy/README.md)
 - [Programming](programming/README.md)
   - [GraphQL](programming/graphql/README.md)
