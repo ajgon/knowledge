@@ -29,6 +29,7 @@
         - [WPA/WPA2-Enterprise: 802.1X i EAP](_articles/pentesting/wifi/bezpieczenstwo-sieci-wifi/07-wpa-enterprise-eap.md)
         - [WPA/WPA2-Enterprise: RADIUS](_articles/pentesting/wifi/bezpieczenstwo-sieci-wifi/08-wpa-enterprise-radius.md)
         - [Budowa sieci WPA/WPA-2 Enterprise z wykorzystaniem FreeRadius](_articles/pentesting/wifi/bezpieczenstwo-sieci-wifi/09-budowa-wpa-enterprise.md)
+      - [Forcing a device to disconnect from WiFi using a deauthentication attack](_articles/pentesting/wifi/forcing-a-device-to-disconnect-from-wifi-using-a-deauthentication-attack.md)
       - [Pwning WPA/WPA2 Networks With Bettercap and the PMKID Client-Less Attack](_articles/pentesting/wifi/pwning-wifi-networks-with-bettercap-and-the-pmkid-client-less-attack.md)
   - [Programming](_articles/programming/README.md)
     - [Ruby](_articles/programming/ruby/README.md)
