@@ -9,16 +9,26 @@
 
 ### Firefox
 
-* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/?src=collection)
-* [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/?src=collection)
-* [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?src=collection)
-* [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/?src=collection)
-* [Disconnect for Facebook](https://addons.mozilla.org/en-US/firefox/addon/facebook-disconnect-ii/?src=collection)
-* [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?src=collection)
-* [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=collection)
-* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/?src=collection)
-* [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/?src=collection)
-* [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner/?src=collection)
-* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?src=collection)
-* [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/?src=collection)
-* [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?src=collection)
+#### Extensions I use
+
+* [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/)
+* [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+* [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+* [Google Container](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+* [Google Redirects Fixer & Tracking Remover](https://addons.mozilla.org/en-US/firefox/addon/google-no-tracking-url/)
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+* [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
+* [uMatrix](https://addons.mozilla.org/en-GB/firefox/addon/umatrix/)
+
+#### Other
+
+* [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+* [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
+* [Disconnect for Facebook](https://addons.mozilla.org/en-US/firefox/addon/facebook-disconnect-ii/)
+* [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+* [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+* [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+* [History Cleaner](https://addons.mozilla.org/en-US/firefox/addon/history-cleaner/)
+* [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner/)
+* [Privacy Possum](https://addons.mozilla.org/en-US/firefox/addon/privacy-possum/)
+* [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)

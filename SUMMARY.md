@@ -49,6 +49,7 @@
   - [AWS](pentesting/aws/README.md)
   - [Dualboot Kali Linux on OSX using encrypted volume](pentesting/dualboot-kali-linux-on-osx-using-encrypted-volume.md)
 - [Privacy](privacy/README.md)
+  - [How to create a VirtualBox machine with encrypted storage with Vagrant](privacy/how-to-create-a-virtualbox-machine-with-encrypted-storage-with-vagrant.md)
 - [Programming](programming/README.md)
   - [GraphQL](programming/graphql/README.md)
 - [Self-hosting](self-hosting/README.md)
