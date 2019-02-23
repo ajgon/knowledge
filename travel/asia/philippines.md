@@ -70,3 +70,5 @@
 * Be prepared that you may catch a bacteria which force you to vomit and have a diarrhea at the same time. According to locals - every foreigner catches it sooner or later. It's a good idea, to have activated carbon - it helps. In our case - it took us 8 hours to get well.
 * A ride back to Puerto Princessa can be booked directly on the terminal. You can either choose van or bus. Van goes faster (5 hours) and it was the option which we chose. It costed us 500PHP, but probably you can get it cheaper.
 * Near the terminal there is also a big board, with tricycle prices to all destinations nearby. If you plan to visit the beaches, take a photo of it and use it when negotating the price.
+    ![](../../.gitbook/assets/8988206e-83d9-43f7-8a8c-12e9bbba7f66/f0e1c568.jpg)
+

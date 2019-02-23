@@ -1,9 +1,11 @@
 # Singapore
 
 * Death penalty for smuggling drugs - you will be reminded of that, both by immigration card and by aircraft personnel during the flight.
+    ![](../../.gitbook/assets/8988206e-83d9-43f7-8a8c-12e9bbba7f66/5fd1f813.jpg)
 * Although the chances are slim, still if you get drug-tested for whatever reason, and the test become positive - you can be prosecuted as well (either fine or prison, capital punishment is reserved only for people with large amount of drugs with them). If you are recreational user, give your body time to clean up before visiting Singapore.
 * You will be handed an immigration card - it consists of two parts. Don't lose the second part, as you need to show it to the officer when you leave the country.
 * Singapore does their best to stay clean, there are high penalties for littering, vandalizing etc.
+    ![](../../.gitbook/assets/8988206e-83d9-43f7-8a8c-12e9bbba7f66/2a50318b.jpg)
 * Grab works in Singapore as well.
 * Typical meal should cost you around 10S$, cheap one - 5S$.
 * Most of the restaurants and shops accept credit cards, however not all of them so either ask first or have some cash handy.
