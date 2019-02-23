@@ -36,6 +36,7 @@
       - [Designing Services with dry-rb](_articles/programming/ruby/dry-rb.md)
     - [Ruby on Rails](_articles/programming/rails/README.md)
       - [Performance](_articles/programming/rails/performance/README.md)
+        - [42 performance tips for Ruby on Rails](_articles/programming/rails/performance/42-performance-tips-for-ruby-on-rails.md)
         - [Actionable Tips to Improve Web Performance with Rails](_articles/programming/rails/performance/actionable-tips-to-improve-web-performance-with-rails.md)
       - [Security](_articles/programming/rails/security/README.md)
         - [5 security issues in Ruby on Rails apps from real life](_articles/programming/rails/security/5-security-issues-in-ruby-on-rails.md)
