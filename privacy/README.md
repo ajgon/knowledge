@@ -14,15 +14,17 @@
 * [Bloody Vikings!](https://addons.mozilla.org/en-US/firefox/addon/bloody-vikings/)
 * [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 * [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+* [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 * [Google Container](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 * [Google Redirects Fixer & Tracking Remover](https://addons.mozilla.org/en-US/firefox/addon/google-no-tracking-url/)
 * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 * [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
 * [uMatrix](https://addons.mozilla.org/en-GB/firefox/addon/umatrix/)
+* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/)
+* [Window Resizer](https://addons.mozilla.org/en-US/firefox/addon/window-resizer-webextension/)
 
 #### Other
 
-* [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 * [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/)
 * [Disconnect for Facebook](https://addons.mozilla.org/en-US/firefox/addon/facebook-disconnect-ii/)
 * [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
