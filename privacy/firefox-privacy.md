@@ -68,124 +68,130 @@
 ## about:config
 
 * Disable the pocket extension:
-    * extensions.pocket.enabled = false
-    * services.sync.prefs.sync.extensions.pocket.enabled = true
+    * `extensions.pocket.enabled` = `false`
+    * `services.sync.prefs.sync.extensions.pocket.enabled` = `true`
 
 * Disable pocket in new tabs:
-    * browser.newtabpage.activity-stream.section.highlights.includePocket = false
-    * services.sync.prefs.sync.browser.newtabpage.activity-stream.section.highlights.includePocket = true
+    * `browser.newtabpage.activity-stream.section.highlights.includePocket` = `false`
+    * `services.sync.prefs.sync.browser.newtabpage.activity-stream.section.highlights.includePocket` = `true`
 
 * Isolate all browser identifier sources (e.g. cookies) to the first party domain:
-    * extensions.pocket.oAuthConsumerKey = ''
-    * extensions.pocket.api = ''
-    * extensions.webextensions.themes.icons.buttons = ''
-    * extensions.pocket.site = ''
-    * browser.newtabpage.activity-stream.feeds.section.topstories.options = ''
-    * privacy.firstparty.isolate = true
-    * services.sync.prefs.sync.extensions.pocket.oAuthConsumerKey = true
-    * services.sync.prefs.sync.extensions.pocket.api = true
-    * services.sync.prefs.sync.extensions.webextensions.themes.icons.buttons = true
-    * services.sync.prefs.sync.extensions.pocket.site = true
-    * services.sync.prefs.sync.browser.newtabpage.activity-stream.feeds.section.topstories.options = true
-    * services.sync.prefs.sync.privacy.firstparty.isolate = true
+    * `extensions.pocket.oAuthConsumerKey` = `''`
+    * `extensions.pocket.api` = `''`
+    * `extensions.webextensions.themes.icons.buttons` = `''`
+    * `extensions.pocket.site` = `''`
+    * `browser.newtabpage.activity-stream.feeds.section.topstories.options` = `''`
+    * `privacy.firstparty.isolate` = `true`
+    * `services.sync.prefs.sync.extensions.pocket.oAuthConsumerKey` = `true`
+    * `services.sync.prefs.sync.extensions.pocket.api` = `true`
+    * `services.sync.prefs.sync.extensions.webextensions.themes.icons.buttons` = `true`
+    * `services.sync.prefs.sync.extensions.pocket.site` = `true`
+    * `services.sync.prefs.sync.browser.newtabpage.activity-stream.feeds.section.topstories.options` = `true`
+    * `services.sync.prefs.sync.privacy.firstparty.isolate` = `true`
 
 * Make Firefox more resistant to browser fingerprinting:
-    * privacy.resistFingerprinting = true
-    * services.sync.prefs.sync.privacy.resistFingerprinting = true
+    * `privacy.resistFingerprinting` = `true`
+    * `services.sync.prefs.sync.privacy.resistFingerprinting` = `true`
 
 * Disables offline cache:
-    * browser.cache.offline.enable = false
-    * services.sync.prefs.sync.browser.cache.offline.enable = true
+    * `browser.cache.offline.enable` = `false`
+    * `services.sync.prefs.sync.browser.cache.offline.enable` = `true`
 
 * Disable web sites tracking clicks:
-    * browser.send\_pings = false
-    * browser.send\_pings.max\_per\_link = '0'
-    * services.sync.prefs.sync.browser.send\_pings = true
-    * services.sync.prefs.sync.browser.send\_pings.max\_per\_link = true
+    * `browser.send\_pings` = `false`
+    * `browser.send\_pings.max\_per\_link` = `'0'`
+    * `services.sync.prefs.sync.browser.send\_pings` = `true`
+    * `services.sync.prefs.sync.browser.send\_pings.max\_per\_link` = `true`
 
 * Disable preloading of autocomplete URLs:
-    * browser.urlbar.speculativeConnect.enabled = false
-    * services.sync.prefs.sync.browser.urlbar.speculativeConnect.enabled = true
+    * `browser.urlbar.speculativeConnect.enabled` = `false`
+    * `services.sync.prefs.sync.browser.urlbar.speculativeConnect.enabled` = `true`
 
 * Disable websites getting notifications when you copy, paste, or cut:
-    * dom.event.clipboardevents.enabled = false
-    * services.sync.prefs.sync.dom.event.clipboardevents.enabled = true
+    * `dom.event.clipboardevents.enabled` = `false`
+    * `services.sync.prefs.sync.dom.event.clipboardevents.enabled` = `true`
 
 * Disable geolocation:
-    * geo.enabled = false
-    * services.sync.prefs.sync.geo.enabled = true
+    * `geo.enabled` = `false`
+    * `services.sync.prefs.sync.geo.enabled` = `true`
 
 * Disable playback of DRM-controlled HTML5 content:
-    * media.eme.enabled = false
-    * services.sync.prefs.sync.media.eme.enabled = true
+    * `media.eme.enabled` = `false`
+    * `services.sync.prefs.sync.media.eme.enabled` = `true`
 
 * Disables the Widevine Content Decryption Module provided by Google Inc.:
-    * media.gmp-widevinecdm.enabled = false
-    * services.sync.prefs.sync.media.gmp-widevinecdm.enabled = true
+    * `media.gmp-widevinecdm.enabled` = `false`
+    * `services.sync.prefs.sync.media.gmp-widevinecdm.enabled` = `true`
 
 * Disable microphone and camera status tracking:
-    * media.navigator.enabled = false
-    * services.sync.prefs.sync.media.navigator.enabled = true
+    * `media.navigator.enabled` = `false`
+    * `services.sync.prefs.sync.media.navigator.enabled` = `true`
 
 * Only accept from the originating site (block third-party cookies):
-    * network.cookie.cookieBehavior = 1
-    * services.sync.prefs.sync.network.cookie.cookieBehavior = true
+    * `network.cookie.cookieBehavior` = `1`
+    * `services.sync.prefs.sync.network.cookie.cookieBehavior` = `true`
 
 * Accept for current session only:
-    * network.cookie.lifetimePolicy = 2
-    * services.sync.prefs.sync.network.cookie.lifetimePolicy = true
+    * `network.cookie.lifetimePolicy` = `2`
+    * `services.sync.prefs.sync.network.cookie.lifetimePolicy` = `true`
 
 * Send only the scheme, host, and port in the Referer header:
-    * network.http.referer.trimmingPolicy = 2
-    * services.sync.prefs.sync.network.http.referer.trimmingPolicy = true
+    * `network.http.referer.trimmingPolicy` = `2`
+    * `services.sync.prefs.sync.network.http.referer.trimmingPolicy` = `true`
 
 * Send Referer only when the full hostnames match:
-    * network.http.referer.XOriginPolicy = 2
-    * services.sync.prefs.sync.network.http.referer.XOriginPolicy = true
+    * `network.http.referer.XOriginPolicy` = `2`
+    * `services.sync.prefs.sync.network.http.referer.XOriginPolicy` = `true`
 
 * Only send scheme, host, and port in Referer:
-    * network.http.referer.XOriginTrimmingPolicy = 2
-    * services.sync.prefs.sync.network.http.referer.XOriginTrimmingPolicy = true
+    * `network.http.referer.XOriginTrimmingPolicy` = `2`
+    * `services.sync.prefs.sync.network.http.referer.XOriginTrimmingPolicy` = `true`
 
 * Disable WebGL:
-    * webgl.disabled = true
-    * services.sync.prefs.sync.webgl.disabled = true
+    * `webgl.disabled` = `true`
+    * `services.sync.prefs.sync.webgl.disabled` = `true`
 
 * Never store extra session data:
-    * browser.sessionstore.privacy\_level = 2
-    * services.sync.prefs.sync.browser.sessionstore.privacy\_level = true
+    * `browser.sessionstore.privacy\_level` = `2`
+    * `services.sync.prefs.sync.browser.sessionstore.privacy\_level` = `true`
 
 * Enable rendering IDNs as their Punycode equivalent:
-    * network.IDN\_show\_punycode = true
-    * services.sync.prefs.sync.network.IDN\_show\_punycode = true
+    * `network.IDN\_show\_punycode` = `true`
+    * `services.sync.prefs.sync.network.IDN\_show\_punycode` = `true`
 
 * Limit the amount of identifiable information sent when requesting the Mozilla harmful extension blocklist:
-    * extensions.blocklist.url = https://blocklists.settings.services.mozilla.com/v1/blocklist/3/%APP_ID%/%APP_VERSION%/%PRODUCT%/%BUILD_ID%/%BUILD_TARGET%/%LOCALE%/%CHANNEL%/%OS_VERSION%/%DISTRIBUTION%/%DISTRIBUTION_VERSION%/%PING_COUNT%/%TOTAL_PING_COUNT%/%DAYS_SINCE_LAST_PING%/
-    * media.peerconnection.enabled = false
-    * services.sync.prefs.sync.extensions.blocklist.url = true
-    * services.sync.prefs.sync.media.peerconnection.enabled = true
+    * `extensions.blocklist.url` = `https://blocklists.settings.services.mozilla.com/v1/blocklist/3/%APP_ID%/%APP_VERSION%/%PRODUCT%/%BUILD_ID%/%BUILD_TARGET%/%LOCALE%/%CHANNEL%/%OS_VERSION%/%DISTRIBUTION%/%DISTRIBUTION_VERSION%/%PING_COUNT%/%TOTAL_PING_COUNT%/%DAYS_SINCE_LAST_PING%/`
+    * `media.peerconnection.enabled` = `false`
+    * `services.sync.prefs.sync.extensions.blocklist.url` = `true`
+    * `services.sync.prefs.sync.media.peerconnection.enabled` = `true`
 
 * Don't allow websites to prevent use of right-click:
-    * dom.event.contextmenu.enabled = false
-    * services.sync.prefs.sync.dom.event.contextmenu.enabled = true
+    * `dom.event.contextmenu.enabled` = `false`
+    * `services.sync.prefs.sync.dom.event.contextmenu.enabled` = `true`
 
 * Don't allow websites to prevent copy and paste:
-    * dom.event.clipboardevents.enabled = false
-    * services.sync.prefs.sync.dom.event.clipboardevents.enabled = true
+    * `dom.event.clipboardevents.enabled` = `false`
+    * `services.sync.prefs.sync.dom.event.clipboardevents.enabled` = `true`
 
 * Disable site reading installed plugins:
-    * plugins.enumerable\_names = ''
-    * services.sync.prefs.sync.plugins.enumerable\_names = true
+    * `plugins.enumerable\_names` = `''`
+    * `services.sync.prefs.sync.plugins.enumerable\_names` = `true`
 
 * Disables geolocation and firefox logging geolocation requests:
-    * geo.wifi.uri = ''
-    * browser.search.geoip.url = ''
-    * services.sync.prefs.sync.geo.wifi.uri = true
-    * services.sync.prefs.sync.browser.search.geoip.url = true
+    * `geo.wifi.uri` = `''`
+    * `browser.search.geoip.url` = `''`
+    * `services.sync.prefs.sync.geo.wifi.uri` = `true`
+    * `services.sync.prefs.sync.browser.search.geoip.url` = `true`
 
 * Disable fonts fingerprinting
-    * browser.display.use\_document\_fonts = 0
-    * services.sync.prefs.sync.browser.display.use\_document\_fonts = true
+    * `browser.display.use\_document\_fonts` = `0`
+    * `services.sync.prefs.sync.browser.display.use\_document\_fonts` = `true`
+
+* (optional) Disable DNS caching to avoid DNS leaks
+    * `network.dnsCacheExpiration` = `0`
+    * `network.dnsCacheExpirationGracePeriod` = `0`
+    * `services.sync.prefs.sync.network.dnsCacheExpiration` = `true`
+    * `services.sync.prefs.sync.network.dnsCacheExpirationGracePeriod` = `true`
 
 ## Additional Info
 
