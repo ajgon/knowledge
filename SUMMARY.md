@@ -55,6 +55,8 @@
   - [How to create a VirtualBox machine with encrypted storage with Vagrant](privacy/how-to-create-a-virtualbox-machine-with-encrypted-storage-with-vagrant.md)
 - [Programming](programming/README.md)
   - [GraphQL](programming/graphql/README.md)
+  - [iOS](programming/ios/README.md)
+    - [Spoof GPS location on iOS](programming/ios/spoof-gps-location-on-ios.md)
 - [Self-hosting](self-hosting/README.md)
 - [Travel](travel/README.md)
   - [Asia](travel/asia/README.md)
