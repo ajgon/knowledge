@@ -1,4 +1,4 @@
-# Always on OpenVPN on Linux
+# "Always on" OpenVPN on Linux
 
 ## Install necessary packages
 
