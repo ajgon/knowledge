@@ -178,6 +178,8 @@ And save so they apply at reboot:
 sudo netfilter-persistent save
 ```
 
+After all steps, reboot your machine and you should be good to go!
+
 ## Troubleshooting
 
 ### OpenVPN problems
@@ -201,4 +203,15 @@ sudo cat /etc/resolv.conf
 
 You should see only one nameserver: `nameserver 127.0.0.1`.
 
+Next check check `dnsmasq` logs:
+
+```console
+sudo cat /var/log/syslog | grep dnsmasq
+```
+
+You should see `using nameserver xxx.xxx.xxx.xxx#53` along the lines, and only VPN DNS servers should be listed.
+If not, ensure that `no-resolv` and `no-poll` directives are enabled in `dnsmasq.conf`.
+
+Sometimes when you do [DNS Leak test](https://www.dnsleaktest.com/), browser may hit it's internal DNS cache.
+Ensure that's it's flushed out before doing the testing.
 
