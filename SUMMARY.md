@@ -58,6 +58,7 @@
   - [iOS](programming/ios/README.md)
     - [Spoof GPS location on iOS](programming/ios/spoof-gps-location-on-ios.md)
 - [Self-hosting](self-hosting/README.md)
+  - [Download music from YouTube for Plex](self-hosting/download-music-from-youtube-for-plex.md)
 - [Travel](travel/README.md)
   - [Asia](travel/asia/README.md)
     - [Brunei](travel/asia/brunei.md)
