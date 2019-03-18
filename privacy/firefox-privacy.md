@@ -59,11 +59,10 @@
 * [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 * [Google Container](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 * [Google Redirects Fixer & Tracking Remover](https://addons.mozilla.org/en-US/firefox/addon/google-no-tracking-url/)
-* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+* [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/)
 * [uBlock Origin](https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/)
 * [uMatrix](https://addons.mozilla.org/en-GB/firefox/addon/umatrix/)
-* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/)
-* [Window Resizer](https://addons.mozilla.org/en-US/firefox/addon/window-resizer-webextension/)
+* [WebRTC Control](https://addons.mozilla.org/en-US/firefox/addon/webrtc-control/)
 
 ## about:config
 
