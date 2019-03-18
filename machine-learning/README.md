@@ -15,6 +15,7 @@
 
 * [Andrew Ng Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 * [Andrew Ng course videos](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+* [Best of Machine Learning](https://bestofml.com/)
 * [Dive into Deep Learning](https://d2l.ai/index.html)
 * [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 * [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
