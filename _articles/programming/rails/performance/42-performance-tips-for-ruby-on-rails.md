@@ -1,5 +1,7 @@
 # 42 performance tips for Ruby on Rails
 
+> Original article: <https://www.mskog.com/posts/42-performance-tips-for-ruby-on-rails/>
+
 Since Ruby on Rails is not the fastest web framework out there you sometimes need to improve the performance in order to keep up. This post will list 42 of my favorite performance tips for making your app faster.
 
 ## TLDR

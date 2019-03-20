@@ -1,5 +1,7 @@
 # Brunei
 
+> This informations were gathered on January 2019.
+
 * If you plan to travel directly from Kuching (and Bako Park) to Bandar Seri Begawan (a Brunei's capital), it's way cheaper to take a AirAsia flight to Miri, and then bus to Brunei.
 * Buses leave twice a day - at 8am and at 3:45pm - from Miri terminal.
 * The terminal itself is open-spaced with nothing much to do, so arrive as late as possible, to not waste your time. Keep in mind, bus to Brunei leaves on time and it won't wait for you.

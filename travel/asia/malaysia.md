@@ -1,5 +1,7 @@
 # Malaysia
 
+> This informations were gathered on January 2019.
+
 * Malaysia is great to travel by bus. There is a website/app for that called [Easybook.com](https://www.easybook.com/).
 * You won't receive a ticket when you book a bus seat, but only a reservation confirmation. Always be half an hour earlier at the departure station to exchange it to actual ticket.
 * Always take estimated ride times with a grain of salt, and add an extra hour or two - especially if you ride from/to Kuala Lumpur.

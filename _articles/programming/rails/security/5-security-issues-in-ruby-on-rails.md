@@ -79,7 +79,7 @@ Each of them is much better than none, but again the final decision is up to you
 If you don't use the gem you can implement a similar solution by yourself (the code is open 🙂 ) or check if a library you use offers a similar solution.
 
 ![Implementing CAPTCHA also helps in preventing brute-force and dictionary attacks.\
-Source: https://hakiri.io/blog/rails-login-security](../../../.gitbook/assets/e56e320e-d4ba-456b-aeb6-269c327becb1/362c34f7.png)
+Source: https://hakiri.io/blog/rails-login-security](../../../../.gitbook/assets/e56e320e-d4ba-456b-aeb6-269c327becb1/362c34f7.png)
 
 ## 3. User enumeration / guessable email addresses
 
@@ -102,7 +102,7 @@ If you use `devise` gem, there is a configuration option called `paranoid` w
 If you don't use `devise` you should adjust your application to behave the same regardless if a user provides her email address or some other.
 
 ![A very clear message (actually two, one under another) which does not divulge any email address.\
-Source: https://help.theatremanager.com/book/export/html/4064](../../../.gitbook/assets/e56e320e-d4ba-456b-aeb6-269c327becb1/604ef9c6.jpg)
+Source: https://help.theatremanager.com/book/export/html/4064](../../../../.gitbook/assets/e56e320e-d4ba-456b-aeb6-269c327becb1/604ef9c6.jpg)
 
 ## 4. Privilege escalation aka unauthorized access to resources
 
@@ -184,7 +184,7 @@ The above method taken from [Devise's wiki](https://github.com/plataformatec/de
 If you want to have something fancier you can take a look at `strong_password` [gem](https://github.com/bdmac/strong_password), but it may be an overkill 🙂
 
 ![Password strength indicators from eBay, Gmail, and Dropbox. Informing users about a password policy in an easy-to-understand way is as important as the policy.\
-Source: https://css-tricks.com/password-strength-meter/](../../../.gitbook/assets/e56e320e-d4ba-456b-aeb6-269c327becb1/d3d4dc6e.png)
+Source: https://css-tricks.com/password-strength-meter/](../../../../.gitbook/assets/e56e320e-d4ba-456b-aeb6-269c327becb1/d3d4dc6e.png)
 
 ## Summary
 

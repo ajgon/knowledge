@@ -1,5 +1,7 @@
 # Singapore
 
+> This informations were gathered on January 2019.
+
 * Death penalty for smuggling drugs - you will be reminded of that, both by immigration card and by aircraft personnel during the flight.
     ![](../../.gitbook/assets/8988206e-83d9-43f7-8a8c-12e9bbba7f66/5fd1f813.jpg)
 * Although the chances are slim, still if you get drug-tested for whatever reason, and the test become positive - you can be prosecuted as well (either fine or prison, capital punishment is reserved only for people with large amount of drugs with them). If you are recreational user, give your body time to clean up before visiting Singapore.

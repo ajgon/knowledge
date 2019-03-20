@@ -14,7 +14,7 @@ We'll use two concepts to make this happen: encryption and blind indexing. Encry
 
 Blind indexing works by computing a hash of the data. You're probably familiar with hash functions like MD5 and SHA1. Rather than one of these, we use a hash function that takes a secret key and uses [key stretching](https://en.wikipedia.org/wiki/Key_stretching) to slow down brute force attempts. You can read more about [blind indexing here](https://www.sitepoint.com/how-to-search-on-securely-encrypted-database-fields/).
 
-We'll use the [attr_encrypted gem](https://github.com/attr-encrypted/attr_encrypted) for encryption and the [blind_index gem](https://github.com/ankane/blind_index) for blind indexing.
+We'll use the [attr\_encrypted gem](https://github.com/attr-encrypted/attr_encrypted) for encryption and the [blind_index gem](https://github.com/ankane/blind_index) for blind indexing.
 
 ## Instructions
 

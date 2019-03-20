@@ -47,7 +47,7 @@ If you don't have strong safeguards for all of this data today, start with the h
 
 Users typically submit information through a browser or native app. Make sure data is encrypted in transit. The most popular browser, Google Chrome, now warns users in the address bar when they visit a website that doesn't use HTTPS.
 
-![](../../../.gitbook/assets/02e536b3-b563-4db0-947c-e2bf92de1e9d/7f9bf445.png)
+![](../../../../.gitbook/assets/02e536b3-b563-4db0-947c-e2bf92de1e9d/7f9bf445.png)
 
 You can get free SSL certificates from [Let's Encrypt](https://letsencrypt.org/) and web servers can terminate SSL with little overhead. You can require your app to use it in `config/environments/production.rb` with:
 

@@ -1,5 +1,7 @@
 # Emulator komputera Atari XE w przeglądarce www
 
+> Original article: <http://www.programistrz.pl/projekty/atari/>
+
 ## Geneza projektu
 
 Pomysł napisania emulatora procesora [MOS 6502](http://pl.wikipedia.org/wiki/MOS_Technology_6502) (który był używany w latach 80. ubiegłego wieku w wielu popularnych komputerach domowych - w tym w [Atari XL/XE](http://pl.wikipedia.org/wiki/Rodzina_8-bitowych_Atari)) zrodził się dawno temu, bo około 1995 roku. Wtedy posiadałem jeszcze komputer [Atari 65XE](http://pl.wikipedia.org/w/index.php?title=Plik:65xe.jpg), z którego czasami korzystałem. Posiadałem w tamtym czasie też komputer PC i to na nim głównie programowałem. Wygoda pracy (szybkość i większa rozdzielczość ekranu) na PC oraz jego popularność spowodowały, że porzuciłem pisanie programów na Atari, choć miałem duży sentyment do tego komputera. Dość duża popularność w Polsce tego sprzętu w tamtym czasie powodowała, że wciąż pojawiały się jeszcze różne programy (gry i użytki) na te komputery. To było impulsem powstania pomysłu (i częściowej, nigdy nie skończonej realizacji), by napisać dość zaawansowany kompilator asemblera procesora MOS 6502 działający na komputerach PC (który generowałby kod działający na komputerach Atari). Oczywiście prócz asemblera przydatny byłby też jakiś debugger (też na PC), dzięki któremu sprawniej pisałoby się i testowało programy. Kompilator asemblera zacząłem nawet pisać (w [Turbo Pascalu](http://pl.wikipedia.org/wiki/Turbo_Pascal)), ale szybko go porzuciłem (był inne rzeczy - bardziej przydatne - do zrobienia).
