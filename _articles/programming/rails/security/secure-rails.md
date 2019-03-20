@@ -1,5 +1,7 @@
 # Secure Rails
 
+> Original article: <https://github.com/ankane/secure_rails>
+
 Everyone writing code must be responsible for security. :lock:
 
 Start with the [Rails Security Guide](https://guides.rubyonrails.org/security.html) to see how Rails protects you.

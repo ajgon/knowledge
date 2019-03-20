@@ -1,5 +1,7 @@
 # Hardening Devise
 
+> Original article: <https://ankane.org/hardening-devise>
+
 A few basic steps to make your [Devise](https://github.com/plataformatec/devise) setup more secure !
 
 ### Send notifications for important events

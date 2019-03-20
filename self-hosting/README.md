@@ -9,5 +9,6 @@
 
 ## Software
 
+* [ArchiveBox](https://archivebox.io/)
 * [Firefly III](https://firefly-iii.org/)
 * [Searx](https://asciimoo.github.io/searx/)
