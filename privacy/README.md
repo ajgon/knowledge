@@ -3,6 +3,7 @@
 ## Resources
 
 * [Browser Add-ons for privacy](https://digdeeper.neocities.org/ghost/addons.html)
+* [Detecting HTTPS Interception](https://caddyserver.com/docs/mitm-detection)
 * [Digdeeper](https://digdeeper.neocities.org/)
 * [Security Checklist](https://securitycheckli.st)
 * [Yubikey Handbook](https://ruimarinho.gitbooks.io/yubikey-handbook/content/)
