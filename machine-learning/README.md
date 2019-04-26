@@ -17,6 +17,7 @@
 * [Andrew Ng course videos](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 * [Best of Machine Learning](https://bestofml.com/)
 * [Dive into Deep Learning](https://d2l.ai/index.html)
+* [List of Free Video Courses and AI Projects for Computer Science Enthusiast](https://www.reddit.com/r/computerscience/comments/b4h9ga/list_of_free_video_courses_and_ai_projects_for/)
 * [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 * [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 * [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
