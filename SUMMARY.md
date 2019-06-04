@@ -71,6 +71,7 @@
   - [Create custom Vagrant Box](programming/create-custom-vagrant-box.md)
 - [Self-hosting](self-hosting/README.md)
   - [Download music from YouTube for Plex](self-hosting/download-music-from-youtube-for-plex.md)
+  - [Stream Apple Events with Kodi](self-hosting/stream-apple-events-with-kodi.md)
   - [Unusual installation of a Debian package](self-hosting/unusual-installation-of-a-debian-package.md)
 - [Travel](travel/README.md)
   - [Asia](travel/asia/README.md)
