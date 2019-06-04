@@ -54,6 +54,8 @@
         - [Strong Encryption Keys for Rails](_articles/programming/rails/security/strong-encryption-keys-for-rails.md)
         - [Using Pundit for authorization in Rails](_articles/programming/rails/security/pundit.md)
 
+- [Cooking](cooking/README.md)
+  - [Gong Bao Ji Ding](cooking/gong-bao-ji-ding.md)
 - [Design](design/README.md)
 - [Emulation](emulation/README.md)
 - [Machine Learning](machine-learning/README.md)
@@ -69,6 +71,7 @@
   - [iOS](programming/ios/README.md)
     - [Spoof GPS location on iOS](programming/ios/spoof-gps-location-on-ios.md)
   - [Create custom Vagrant Box](programming/create-custom-vagrant-box.md)
+  - [Create ISO Image from a folder](programming/create-iso-image-from-a-folder.md)
 - [Self-hosting](self-hosting/README.md)
   - [Download music from YouTube for Plex](self-hosting/download-music-from-youtube-for-plex.md)
   - [Stream Apple Events with Kodi](self-hosting/stream-apple-events-with-kodi.md)
