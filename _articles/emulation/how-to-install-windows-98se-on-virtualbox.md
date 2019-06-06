@@ -16,7 +16,7 @@
 * Extract small patches, medium patches, auto-patchers and open office to one directory
 * Keep all extracted files in root of the directory (to make automatic scripts work out of the box)
     ```console
-    $ ls
+    $ ls ./util-dir
     7z920.msi                           NDP1.1sp1-KB971108-X86.exe          Run2E.reg                           jre-6u22-windows-i586.exe
     AP2007.EXE                          OOo_3.2.1_Win_x86_install_en-US.exe Run2F.bat                           klmcodec345.exe
     AP2008UP.EXE                        PlainOldFavorites_1.3.1.xpi         Run2F.reg                           klmcp.ini
