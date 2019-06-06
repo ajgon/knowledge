@@ -1,5 +1,7 @@
 # How to install Windows 98SE on VirtualBox
 
+> Original article: <https://forums.virtualbox.org/viewtopic.php?f=28&t=59559>
+
 ## Prerequisities
 
 * VirtualBox 5.2.8 (or later) plus extension pack
