@@ -9,6 +9,7 @@
   - [Emulation](_articles/emulation/README.md)
     - [Atari](_articles/emulation/atari/README.md)
       - [Emulator komputera Atari XE w przeglądarce www](_articles/emulation/atari/emulator-komputera-atari-xe-w-przegladarce-www.md)
+    - [How to install Windows 98SE on VirtualBox](_articles/emulation/how-to-install-windows-98se-on-virtualbox.md)
   - [Pentesting](_articles/pentesting/README.md)
     - [Passwords cracking](_articles/pentesting/passwords-cracking/README.md)
       - [Kompendium bezpieczeństwa haseł](_articles/pentesting/passwords-cracking/kompendium-bezpieczenstwa-hasel/README.md)
