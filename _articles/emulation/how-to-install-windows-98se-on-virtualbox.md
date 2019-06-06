@@ -163,7 +163,7 @@ As Windows 98se can be more than a bit unstable you may wish to save your image 
 * Lock down Internet zones (Internet & Restricted to High, others to Medium)
 * KernelEx-4.5.2.exe (compatibility layer to run XP programs) - _save point 4_
 
-* Run1X.bat (& Run2X.bat) where X is your CD drive - installs the following, reboots on completion - 10 minutes
+* Run1X.bat (& Run2X.bat) where X is your CD drive with utilities - installs the following, reboots on completion - 10 minutes
     * uninstall MSXML 4.0 SP2
     * copy GDIplus.dll (5.1.3102.5581) to C:\Windows
     * flashplayer10\_3r183\_90\_winax.exe (flash player for I.E.)
