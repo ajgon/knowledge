@@ -141,7 +141,7 @@ As Windows 98se can be more than a bit unstable you may wish to save your image 
 * When Windows asks to install new drivers from Windows CD-ROM, make sure the search directory contains proper drive letter (for example it may show `E:\WIN98` while your system CD-ROM is in `D:\WIN98`)
 * Switch to Windows Logon (Network Neighbourhood >> Properties >> Configuration) - _save point 1_
 * Set Virtual Memory to 1GB (My Computer >> Properties >> Performance)
-* **Skip the following steps if you install different language version than English:**
+* **Skip the Auto-Patcher steps if you install different language version than English:**
     * Auto-Patcher December 2007 Full (install only)
     * Auto-Patcher December 2008 Upgrade (install and run)
         * Enter the following key sequence - `M N U 5 1 3 7 B P S I I` - 35 minutes
