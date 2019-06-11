@@ -83,3 +83,5 @@
     - [Malaysia](travel/asia/malaysia.md)
     - [Philippines](travel/asia/philippines.md)
     - [Singapore](travel/asia/singapore.md)
+- [Windows](windows/README.md)
+  - [Fix maps in Picasa](windows/fix-maps-in-picasa.md)
